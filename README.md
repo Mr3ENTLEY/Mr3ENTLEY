@@ -26,10 +26,12 @@
 - 🛠️ **Domain & Device Management**: Exploring strategies for managing devices and domains efficiently.
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr3ENTLEY&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr3ENTLEY&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr3ENTLEY&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr3ENTLEY&layout=compact&theme=tokyonight&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff" alt="Top Languages">
 </div>
+
 
 ## ✨ Fun Facts About Me
 - 🎮 **Hobbies**: Passionate about RC boats, planes, and ground vehicles. I also love experimenting with new tech!
