@@ -2,8 +2,6 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Profile Banner](https://yourimageurl.com/banner.png)
-
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%94%EF%B8%8F-blue?style=for-the-badge" alt="Open Source Badge">
   <img src="https://img.shields.io/badge/Continuous%20Learning-%E2%9C%85-green?style=for-the-badge" alt="Continuous Learning Badge">
@@ -12,7 +10,7 @@
 
 ## 🔭 Projects I’m working on
 - 🌍 **ShareBy**: A platform for finding and sharing local items and services for free, promoting community connections and reducing waste.
-- 🖥️ **PS-Commander**: A powerful PowerShell-based toolkit for managing and automating tasks across devices.
+- 🖥️ **PS-Commander**: A powerful PowerShell-based toolkit for managing and automating tasks across windows devices.
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
