@@ -17,15 +17,15 @@
 - 🖥️ **PS-Commander**: A powerful PowerShell-based toolkit for managing and automating tasks across Windows devices.
 
 ## 🚀 Skills & Technologies
-<div style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3); max-width: 1000px;">
-  <div style="margin-bottom:10px;">
+<div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3); max-width: 1000px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom:10px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="80" alt="JavaScript">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="80" alt="Node.js">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="80" alt="SQL">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" width="100" height="80" alt="PowerShell">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100" height="80" alt="Ubuntu">
   </div>
-  <div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="100" height="80" alt="C#">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="100" height="80" alt=".NET">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="80" alt="Python">
