@@ -23,12 +23,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="75" height="60" alt="SQL">
   <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_256.png" width="75" height="60" alt="PowerShell">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="75" height="60" alt="Ubuntu">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_logo.svg" width="75" height="60" alt="C#">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/.NET_Core_Logo.svg" width="75" height="60" alt=".NET">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Python_logo_2014.svg" width="75" height="60" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="75" height="60" alt="HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" width="75" height="60" alt="CSS">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="75" height="60" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="75" height="60" alt=".NET">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="75" height="60" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="75" height="60" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="75" height="60" alt="CSS">
 </div>
+
 
 ## 🌱 What I’m learning
 - 💻 **Full Stack Web Development**: Enhancing my skills in JavaScript, Node.js, and SQL to build more dynamic applications.
