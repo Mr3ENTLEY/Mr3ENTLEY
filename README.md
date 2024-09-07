@@ -2,12 +2,10 @@
   <h1 style="color: #e0e0e0;">Welcome to the GitHub Profile of Mr3ENTLEY 👋</h1>
 </div>
 
-## 📈 GitHub Stats
 <div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr3ENTLEY&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79ff97&hide_border=true" alt="GitHub Stats" style="border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);">
 </div>
 
-## 🛠️ Badges
 <div align="center" style="background-color:#1e1e2f; padding:10px; border-radius:10px; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);">
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%94%EF%B8%8F-blue?style=for-the-badge&logo=open-source&logoColor=white" alt="Open Source Badge">
   <img src="https://img.shields.io/badge/Continuous%20Learning-%E2%9C%85-green?style=for-the-badge&logo=learning&logoColor=white" alt="Continuous Learning Badge">
