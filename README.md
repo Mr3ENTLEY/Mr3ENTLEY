@@ -17,20 +17,22 @@
 - 🖥️ **PS-Commander**: A powerful PowerShell-based toolkit for managing and automating tasks across Windows devices.
 
 ## 🚀 Skills & Technologies
-<div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="75" height="60" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="75" height="60" alt="Node.js">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" width="75" height="60" alt="SQL">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" width="75" height="60" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="75" height="60" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="75" height="60" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="75" height="60" alt=".NET">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="75" height="60" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="75" height="60" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="75" height="60" alt="CSS">
+<div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3); max-width: 1000px;">
+  <div style="margin-bottom:10px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="80" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="80" alt="Node.js">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="80" alt="SQL">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" width="100" height="80" alt="PowerShell">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100" height="80" alt="Ubuntu">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="100" height="80" alt="C#">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="100" height="80" alt=".NET">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="80" alt="Python">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="80" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="80" alt="CSS">
+  </div>
 </div>
-
-
 
 ## 🌱 What I’m learning
 - 💻 **Full Stack Web Development**: Enhancing my skills in JavaScript, Node.js, and SQL to build more dynamic applications.
