@@ -26,23 +26,8 @@
 - 🛠️ **Domain & Device Management**: Exploring strategies for managing devices and domains efficiently.
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr3ENTLEY&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr3ENTLEY&layout=compact&theme=tokyonight&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff" alt="Top Languages">
-</div>
-
-
-## ✨ Fun Facts About Me
-- 🎮 **Hobbies**: Passionate about RC boats, planes, and ground vehicles. I also love experimenting with new tech!
-- 🌱 **Favorite Quote**: "The best way to predict the future is to invent it." – Alan Kay
-
-## 🛠️ Tools I Use
-<div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge">
-  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V Badge">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Badge">
 </div>
 
 <div align="center">
