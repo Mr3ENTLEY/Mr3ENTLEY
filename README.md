@@ -17,7 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="Node.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" alt="SQL">
-  <img src="https://en.wikipedia.org/wiki/PowerShell#/media/File:PowerShell_Core_6.0_icon.png" width="50" height="50" alt="PowerShell">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/PowerShell_5.0_icon.png" width="50" height="50"   alt="PowerShell">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="50" height="50" alt="Ubuntu">
 </div>
 
