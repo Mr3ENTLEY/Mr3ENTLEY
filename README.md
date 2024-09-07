@@ -26,9 +26,10 @@
 - 🛠️ **Domain & Device Management**: Exploring strategies for managing devices and domains efficiently.
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr3ENTLEY&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff" alt="GitHub Stats">
+<div align="center" style="background-color:#1a1a2e; padding:20px; border-radius:15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr3ENTLEY&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79ff97&hide_border=true" alt="GitHub Stats" style="box-shadow: 0px 0px 15px rgba(89, 255, 192, 0.5);">
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mr3ENTLEY&color=blue" alt="Profile Views">
