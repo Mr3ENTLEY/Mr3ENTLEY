@@ -17,12 +17,17 @@
 - 🖥️ **PS-Commander**: A powerful PowerShell-based toolkit for managing and automating tasks across Windows devices.
 
 ## 🚀 Skills & Technologies
-<div align="center" style="background-color:#1e1e2f; padding:15px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);">
+<div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="75" height="60" alt="JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="75" height="60" alt="Node.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="75" height="60" alt="SQL">
   <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_256.png" width="75" height="60" alt="PowerShell">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="75" height="60" alt="Ubuntu">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_logo.svg" width="75" height="60" alt="C#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/.NET_Core_Logo.svg" width="75" height="60" alt=".NET">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Python_logo_2014.svg" width="75" height="60" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="75" height="60" alt="HTML">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" width="75" height="60" alt="CSS">
 </div>
 
 ## 🌱 What I’m learning
