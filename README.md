@@ -17,7 +17,7 @@
 - 🖥️ **PS-Commander**: A powerful PowerShell-based toolkit for managing and automating tasks across Windows devices.
 
 ## 🚀 Skills & Technologies
-<div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3); max-width: 1000px;">
+<div style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3); max-width: 1000px;">
   <div style="margin-bottom:10px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="80" alt="JavaScript">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="80" alt="Node.js">
