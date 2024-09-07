@@ -21,21 +21,41 @@
 <div style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3); width: 100%; display: flex; flex-direction: column; align-items: center;">
 
   <!-- First row of icons -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; width: 100%; max-width: 1200px; margin-bottom:10px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="80" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="80" alt="Node.js">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="80" alt="SQL">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" width="100" height="80" alt="PowerShell">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100" height="80" alt="Ubuntu">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; margin-bottom:10px;">
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="80" alt="JavaScript">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" height="80" alt="Node.js">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="80" alt="SQL">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" width="100" height="80" alt="PowerShell">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100" height="80" alt="Ubuntu">
+    </div>
   </div>
 
   <!-- Second row of icons -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; width: 100%; max-width: 1200px;">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="100" height="80" alt="C#">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="100" height="80" alt=".NET">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="80" alt="Python">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="80" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="80" alt="CSS">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="100" height="80" alt="C#">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="100" height="80" alt=".NET">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="80" alt="Python">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="80" alt="HTML">
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; margin: 0 5px;">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="80" alt="CSS">
+    </div>
   </div>
 
 </div>
