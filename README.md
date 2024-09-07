@@ -1,6 +1,6 @@
 <!-- Your GitHub username is Mr3ENTLEY -->
 
-# Welcome to my GitHub Profile! 👋
+# Welcome to the GitHub Profile of Mr3ENTLEY 👋
 
 ## 📈 GitHub Stats
 <div align="center" style="background-color:#1a1a2e; padding:20px; border-radius:15px;">
