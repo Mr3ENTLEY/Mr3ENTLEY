@@ -12,18 +12,6 @@
 - 🌍 **ShareBy**: A platform for finding and sharing local items and services for free, promoting community connections and reducing waste.
 - 🖥️ **PS-Commander**: A powerful PowerShell-based toolkit for managing and automating tasks across windows devices.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
-</div>
-
-## 🌱 What I’m learning
-- 💻 **Full Stack Web Development**: Enhancing my skills in JavaScript, Node.js, and SQL to build more dynamic applications.
-- 🛠️ **Domain & Device Management**: Exploring strategies for managing devices and domains efficiently.
-
 ## 🚀 Skills & Technologies
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript">
@@ -32,6 +20,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/PowerShell_5.0_icon.png" width="50" height="50" alt="PowerShell">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="50" height="50" alt="Ubuntu">
 </div>
+
+## 🌱 What I’m learning
+- 💻 **Full Stack Web Development**: Enhancing my skills in JavaScript, Node.js, and SQL to build more dynamic applications.
+- 🛠️ **Domain & Device Management**: Exploring strategies for managing devices and domains efficiently.
 
 ## 📈 GitHub Stats
 <div align="center">
