@@ -1,5 +1,3 @@
-# Welcome to the GitHub Profile of Mr3ENTLEY 👋
-
 <div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);">
   <h1 style="color: #e0e0e0;">Welcome to the GitHub Profile of Mr3ENTLEY 👋</h1>
 </div>
