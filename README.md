@@ -7,7 +7,6 @@
 </div>
 
 <div align="center" style="background-color:#1e1e2f; padding:10px; border-radius:10px; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);">
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%94%EF%B8%8F-blue?style=for-the-badge&logo=open-source&logoColor=white" alt="Open Source Badge">
   <img src="https://img.shields.io/badge/Continuous%20Learning-%E2%9C%85-green?style=for-the-badge&logo=learning&logoColor=white" alt="Continuous Learning Badge">
   <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=for-the-badge&logo=projects&logoColor=white" alt="Projects In Progress Badge">
 </div>
