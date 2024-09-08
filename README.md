@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=for-the-badge&logo=projects&logoColor=white" alt="Projects In Progress Badge">
 </div>
 
-<div align="center" style="background-color:#1e1e2f; padding:10px; border-radius:10px; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);">
+<div align="left" style="background-color:#1e1e2f; padding:10px; border-radius:10px; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);">
   <img src="https://komarev.com/ghpvc/?username=Mr3ENTLEY&color=blue" alt="Profile Views">
 </div>
 
