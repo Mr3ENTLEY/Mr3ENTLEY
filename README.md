@@ -10,3 +10,20 @@
 </div>
 
 ## 🌱 What I’m learning
+
+### Languages
+
+  - GDScript
+  - Javascript
+  - PowerShell
+  - SQL
+  - .NET
+  - C#
+
+### Concepts
+
+  - Full-stack web development.
+  - Godot game development.
+  - .NET application development.
+  - Product design & development.
+  - Network design & deployment
