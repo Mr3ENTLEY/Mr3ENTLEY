@@ -12,8 +12,3 @@
 </div>
 
 ## 🌱 What I’m learning
-- 💻 **Full Stack Web Development**: Enhancing my skills in JavaScript, Node.js, and SQL to build more dynamic applications.
-
-<div align="center" style="background-color:#1e1e2f; padding:10px; border-radius:10px; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);">
-    <img src="https://komarev.com/ghpvc/?username=Mr3ENTLEY&color=blue" alt="Profile Views"> 
-</div>
