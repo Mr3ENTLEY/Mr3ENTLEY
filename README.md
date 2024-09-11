@@ -25,5 +25,5 @@
   - Full-stack web development.
   - Godot game development.
   - .NET application development.
-  - Product design & development.
-  - Network design & deployment
+  - Hardware design & development.
+  - Network design & deployment.
