@@ -6,7 +6,10 @@
 
 ## Favotite Applications
 
-###IOS
+### Apple IOS
+
+
+### Android
 
 
 ### Mac OSX
