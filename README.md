@@ -7,13 +7,48 @@
 ## My Favourite Applications
 
 ### VS Code
+#### Description
+#### My Uses
+#### Tips & Tricks
 
 ### Visual Studio
+#### Description
+
+#### My Uses
+
+#### Tips & Tricks
+
 
 ### Node JS
+#### Description
+
+#### My Uses
+
+#### Tips & Tricks
+
 
 ### Blender
+#### Description
+
+#### My Uses
+
+#### Tips & Tricks
+
 
 ### Olive Video Editor 
+#### Description
+
+#### My Uses
+
+#### Tips & Tricks
+
 
 ### SQLite
+#### Description
+
+#### My Uses
+
+#### Tips & Tricks
+
+
+### Hyper-V
