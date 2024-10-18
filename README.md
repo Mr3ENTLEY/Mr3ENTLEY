@@ -19,14 +19,13 @@
 
 ## My Common Applications
 
-### VS Code
-    #### Docker
-    #### ESLint
-    #### Python
+  ### VS Code
+    Docker
+    ESLint
+    Python
 
-### Node JS
-    #### Express Framework
+  ### Node JS
+    Express Framework
+    Node-Exporter
 
-### Hyper-V
-
-### Docker
+  ### Docker
