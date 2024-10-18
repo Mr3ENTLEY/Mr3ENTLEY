@@ -9,12 +9,13 @@
 ### Microsoft Windows
 #### Usage: 60%
 
-### Ubuntu Linux
+### Linux
 #### Usage: 30%
 
 ### MacOSX
 #### Usage: 10%
 
+<hr>
 ## My Common Applications
 
 ### VS Code
