@@ -18,8 +18,12 @@
 
 ### Mac OSX
     Usage: 10%
-    
+
+<div align="center">
+  
 ## My Common Applications
+
+</div>
 
   ### VS Code
     Docker
