@@ -17,8 +17,6 @@
 ### MacOSX
 #### Usage: 10%
 
-<hr>
-
 ## My Common Applications
 
 ### VS Code
@@ -29,5 +27,3 @@
 ### Hyper-V
 
 ### Docker
-
-###
