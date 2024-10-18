@@ -16,7 +16,10 @@
 #### Usage: 10%
 
 <hr>
+
 ## My Common Applications
+
+<br>
 
 ### VS Code
 
