@@ -4,7 +4,11 @@
 
 <br>
 
-## My Common Opperating Systems
+<div align="center">
+  
+  ## My Common Operating Systems
+
+</div>
 
 ### Microsoft Windows
     Usage: 60%
