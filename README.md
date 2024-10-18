@@ -17,7 +17,7 @@
 ### MacOSX
 #### Usage: 10%
 
-<br>
+<hr>
 
 ## My Common Applications
 
