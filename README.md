@@ -9,14 +9,14 @@
 ## My Common Opperating Systems
 
 ### Microsoft Windows
-    #### Usage: 60%
+    Usage: 60%
 
 ### Linux
-    #### Usage: 30%
+    Usage: 30%
 
 ### Mac OSX
-    #### Usage: 10%
-
+    Usage: 10%
+    
 ## My Common Applications
 
   ### VS Code
