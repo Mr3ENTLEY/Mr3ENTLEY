@@ -11,13 +11,13 @@
 </div>
 
 ### Microsoft Windows
-    Usage: 60%
+  - Usage: 60%
 
 ### Linux
-    Usage: 30%
+  - Usage: 30%
 
 ### Mac OSX
-    Usage: 10%
+  - Usage: 10%
 
 <div align="center">
   
@@ -26,12 +26,22 @@
 </div>
 
   ### VS Code
-    Docker
-    ESLint
-    Python
+  #### Extensions
+  - Docker
+  - ESLint
+  - Python
 
   ### Node JS
-    Express Framework
-    Node-Exporter
+  - Express Framework
+  - Node-Exporter
 
   ### Docker
+  #### Containers
+  - CasaOS
+  - Home Assistant
+  - Kali Linux
+  - Net Data
+  - Node JS
+  - Prometheus
+  - Proxmox
+  - Ubuntu Linux
