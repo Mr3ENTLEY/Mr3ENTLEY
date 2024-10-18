@@ -20,9 +20,12 @@
 ## My Common Applications
 
 ### VS Code
+    #### Docker
+    #### ESLint
+    #### Python
 
 ### Node JS
-#### Express Framework
+    #### Express Framework
 
 ### Hyper-V
 
