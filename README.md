@@ -10,54 +10,66 @@
 
 ### Microsoft Windows
   - Usage: 60%
-
-  #### Main Uses
-  - Graphic Design
-  - Music Production
-  - Programming & Development
-  - Videography, Photography / Editing
-  - Word Processing
+  
+    - Graphic Design
+    - Music Production
+    - Programming & Development
+    - Videography, Photography / Editing
+    - Word Processing
 
 ### Linux
   - Usage: 30%
-
-  #### Main Uses
-  - Docker Containerization
-  - Web Hosting
+    
+    - Docker Containerization
+    - Web Hosting
 
 ### Mac OSX
   - Usage: 10%
-  #### Main Uses
-  - Swift App Development
+    
+    - Swift App Development
 
 <div align="center">
   
-## Applications & Languages
+## Languages
+
+</div>
+
+### Bash
+
+### CSS
+
+### HTML
+
+### JavaScript
+
+### PowerShell
+
+### Python
+
+<div align="center">
+
+## Applications
 
 </div>
 
   ### VS Code
-  #### Extensions
-  - Docker
-  - ESLint
-  - Python
+  - Extensions
+    - Docker
+    - ESLint
+    - Python
 
   ### Node JS
-  - Express Framework
-  - Node-Exporter
+  - Frameworks
+    - Express Framework
+    - Node-Exporter
 
   ### Docker
-  #### Containers
-  - CasaOS
-  - Home Assistant
-  - Kali Linux 
-  - NetData
-  - Node JS
-  - Prometheus
-  - Proxmox
-  - Ubuntu Linux
-
-  ### Terminal
-  - PowerShell
-  - Bash
-  - 
+  - Containers
+    - CasaOS
+    - Home Assistant
+    - Kali Linux 
+    - NetData
+    - Node JS
+    - Prometheus
+    - Proxmox
+    - Ubuntu Linux
