@@ -35,16 +35,32 @@
 </div>
 
 ### Bash
-
+  - Usage: 
+    - Linux Terminal (80%)
+    - Bash Scripting (20%)
+    
 ### CSS
+  - Usage: 
+    - Web Development (80%)
+    - Userscripts via Tampermoneky (20%)
 
 ### HTML
+  - Usage: 
+    - Web Development (100%)
 
 ### JavaScript
+  - Usage: 
+    - Web Development (80%)
+    - Desktop Application Development (20%)
 
 ### PowerShell
+  - Usage: 
+    - Active Directory Management (80%)
+    - Scripting (20%)
 
 ### Python
+  - Usage: 
+    - Web App Development (100%)
 
 <div align="center">
 
