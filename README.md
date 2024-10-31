@@ -10,22 +10,22 @@
 
 ### Microsoft Windows
   - Usage: 60%
-  
     - Graphic Design
     - Music Production
     - Programming & Development
+    - Domain Management
     - Videography, Photography / Editing
     - Word Processing
+    - Gaming
 
 ### Linux
   - Usage: 30%
-    
-    - Docker Containerization
-    - Web Hosting
+    - Self Hosting (LAN)
+    - Web Hosting (WAN)
+    - Penetration Testing (Kali & Parrot Linux)
 
 ### Mac OSX
   - Usage: 10%
-    
     - Swift App Development
 
 <div align="center">
