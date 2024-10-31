@@ -22,7 +22,7 @@
   - Usage: 30%
     - Self Hosting (LAN)
     - Web Hosting (WAN)
-    - Penetration Testing (Kali & Parrot Linux)
+    - Penetration Testing
 
 ### Mac OSX
   - Usage: 10%
